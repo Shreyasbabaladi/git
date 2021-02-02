@@ -4,5 +4,5 @@ git push
 git pull
 git log
 git restore
-git bancher
-git mi
+git banching
+git merge
