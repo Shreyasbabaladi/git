@@ -1,0 +1,8 @@
+git add<file>
+git commit -m"your messages"
+git push
+git pull
+git log
+git restore
+git bancher
+git mi
